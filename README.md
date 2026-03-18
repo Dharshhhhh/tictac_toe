@@ -18,3 +18,11 @@ The program prints the board after every move and announces the winner.
 
 ## How to Run
 Compile:
+```
+nvcc tictactoe.cu -o game
+```
+
+Run:
+```
+./game
+```
